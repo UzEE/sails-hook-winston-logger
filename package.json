@@ -1,6 +1,6 @@
 {
   "name": "sails-hook-winstonlogger",
-  "version": "0.0.1-alpha.6",
+  "version": "0.0.1",
   "description": "A custom Sails.js hook to add support for Winston logging",
   "main": "lib/logger.js",
   "scripts": {
