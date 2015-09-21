@@ -12,7 +12,7 @@ A custom Sails.js hook to add support for logging using the popular Winston libr
 Make sure you have at least Sails.js version v0.11.0 installed.
 
 ```ssh
-npm install sails-hook-winston-logger --save
+npm install sails-hook-winstonlogger --save
 ```
 
 ## Usage
